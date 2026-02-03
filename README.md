@@ -4,3 +4,5 @@ My First HTML Page (Lab 1): https://nickarms12.github.io/WebProgramming/lab1-int
 Lab 2 - Home: https://nickarms12.github.io/WebProgramming/lab2-home<br>
 
 Lab 2 - About: https://nickarms12.github.io/WebProgramming/lab2-about.html<br>
+
+Lab 3 - Forms: https://nickarms12.github.io/WebProgramming/lab3-forms.html<br>
