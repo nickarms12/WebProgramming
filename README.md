@@ -7,4 +7,7 @@ Lab 2 - About: https://nickarms12.github.io/WebProgramming/lab2-about.html<br>
 
 Lab 3 - Forms: https://nickarms12.github.io/WebProgramming/lab3-forms.html<br>
 
-Lab 4 - CSS Styling: https://nickarms12.github.io/WebProgramming/lab4-css.html
+Lab 4 - CSS Styling: https://nickarms12.github.io/WebProgramming/lab4-css.html<br>
+
+Lab 5 - CSS Text Styling: https://nickarms12.github.io/WebProgramming/lab5-text.html<br>
+
