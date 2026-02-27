@@ -11,3 +11,5 @@ Lab 4 - CSS Styling: https://nickarms12.github.io/WebProgramming/lab4-css.html<b
 
 Lab 5 - CSS Text Styling: https://nickarms12.github.io/WebProgramming/lab5-text.html<br>
 
+Lab 6 - CSS Box Models: https://nickarms12.github.io/WebProgramming/lab6-boxmodel.html<br>
+
